@@ -29,3 +29,5 @@ services:
         sync: false
       - key: TWILIO_WHATSAPP_NUMBER
         sync: false
+      - key: ADMIN_EMAILS
+        sync: false
